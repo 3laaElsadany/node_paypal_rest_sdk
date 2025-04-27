@@ -12,13 +12,13 @@ This project is a Node.js application that allows users to purchase products onl
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/3laaElsadany/node-paypal-rest-sdk.git
+   git clone https://github.com/3laaElsadany/node_paypal_rest_sdk.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd node-paypal-rest-sdk
+   cd node_paypal_rest_sdk
    ```
 
 3. Install the dependencies:
